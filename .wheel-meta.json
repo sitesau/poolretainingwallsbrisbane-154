@@ -1,0 +1,22 @@
+{
+  "wheel_id": 829,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-154",
+  "project": "pool-retaining-walls-brisbane-quotes-explained-574ab239a0d9abbc",
+  "parent_t1_ref": "poolretainingwallsbrisbane-006",
+  "node_role": "buffer",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls brisbane quotes explained",
+  "intended_url": "https://aumedia.neocities.org/pool-retaining-walls-brisbane-quotes-explained-574ab239a0d9abbc/",
+  "tier": "T2",
+  "writeback_nonce": "e0effbb9bee70a33",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/pool-retaining-walls-brisbane-poolretainingwallsbrisbane-006/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
